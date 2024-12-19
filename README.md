@@ -14,6 +14,9 @@ Se fabricaron tres *phantoms*:
 - Dos en **resina**, también con densidad del 100%.
 
 
+| ![3D view 1](https://github.com/user-attachments/assets/22ad6de3-3ae5-478a-84f7-766f8515d39b) | ![3D view 2](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Frontal%203D.png?raw=true) | ![3D view 3](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Lateral%203D.png?raw=true) |
+|:--:|:--:|:--:|
+| 3D view 1 | 3D view 2 | 3D view 3 |
 
 Figura 1. Porta-phantom y phantom de PLA.
 Figura 2: Porta-phantom y peine de metal 
