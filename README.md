@@ -14,13 +14,32 @@ Se fabricaron tres *phantoms*:
 - Dos en **resina**, también con densidad del 100%.
 
 
-| ![3D view 1](https://github.com/user-attachments/assets/22ad6de3-3ae5-478a-84f7-766f8515d39b) | ![3D view 2](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Frontal%203D.png?raw=true) | ![3D view 3](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Lateral%203D.png?raw=true) |
-|:--:|:--:|:--:|
-| 3D view 1 | 3D view 2 | 3D view 3 |
+<a href="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/8e52f841-439d-4bc3-884e-4978a1d15dc4.jpg?raw=true">
+  <img src="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/8e52f841-439d-4bc3-884e-4978a1d15dc4.jpg?raw=true" alt="Phantom de rayos X fabricado en resina" width="400">
+</a>
 
-Figura 1. Porta-phantom y phantom de PLA.
-Figura 2: Porta-phantom y peine de metal 
-Figura 3. Porta-phantom y phantoms de resina. 
+*Figura 1. Porta-phantom y phantom de PLA.*
+
+
+
+
+<a href="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/e23dd17a-e936-4007-9454-f6f43a2c5df6.jpg?raw=true">
+  <img src="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/e23dd17a-e936-4007-9454-f6f43a2c5df6.jpg?raw=true" alt="Phantom de rayos X fabricado en resina" width="400">
+</a>
+
+*Figura 2: Porta-phantom y peine de metal.*
+
+
+
+
+<a href="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/c3124f22-fe52-4786-8abe-54afe48e55d4.jpg?raw=true">
+  <img src="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/c3124f22-fe52-4786-8abe-54afe48e55d4.jpg?raw=true" alt="Phantom de rayos X fabricado en resina" width="400">
+</a>
+
+*Figura 3. Porta-phantom y phantoms de resina.*
+
+ 
+ 
 
 
 
