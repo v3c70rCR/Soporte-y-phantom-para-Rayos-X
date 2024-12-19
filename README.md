@@ -1,4 +1,4 @@
-# Informe: Phantom para Rayos X
+# Soporte y Phantom para Rayos X
 
 ## Introducción
 En el marco de la asignatura **Equipos Médicos IV (Imagenología)**, se desarrolló un soporte y *phantoms* para rayos X, solicitado por la profesora **Steren Chabert**. Este proyecto se llevó a cabo como una colaboración entre la **Facultad de Ingeniería**, a través del **FabLab**, y la **Escuela de Tecnología Médica, mención Imagenología y Física Médica**. 
