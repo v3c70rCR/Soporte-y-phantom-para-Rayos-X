@@ -58,11 +58,25 @@ El soporte y los *phantoms* fabricados fueron evaluados y utilizados en un talle
 La profesora **Steren Chabert** y la profesora de Tecnología Médica **Yasna Olguín** se mostraron satisfechas con los resultados, destacando la utilidad de los materiales para las actividades prácticas de los estudiantes.
 
 
+<a href="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/Captura%20de%20pantalla%202024-12-19%20155052.png?raw=true">
+  <img src="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/Captura%20de%20pantalla%202024-12-19%20155052.png?raw=true" alt="Phantom de rayos X fabricado en resina" width="920">
+</a>
 
+*Figura 4: Izquierda: adquisición con distancia objeto-placa: 30 cm; derecha: adquisición con distancia objeto-placa: mínima (sobre la camilla). Se aprecia la diferencia en resolución espacial, donde el efecto penumbra es menor en la imagen de la derecha, visibilizado en la lámina delgada visible en la derecha y no en la izquierda (círculo verde).*
 
-Figura 4: Izquierda: adquisición con distancia objeto-placa: 30 cm; derecha: adquisición con distancia objeto-placa: mínima (sobre la camilla). Se aprecia la diferencia en resolución espacial, donde el efecto penumbra es menor en la imagen de la derecha, visibilizado en la lámina delgada visible en la derecha y no en la izquierda (círculo verde).
-Figura 5: Imágenes adquiridas con distintas técnicas del peine metálico. 
-Figura 6: Grupo de estudiantes de la Escuela de Tecnología Médica y de la Escuela de Ingeniería Civil Biomédica analizando y discutiendo las técnicas a aplicar para la adquisición de imágenes de los phantoms.
+<a href="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/6575d2f6-b550-455c-ae2b-d07db69355cc.jpg?raw=true">
+  <img src="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/6575d2f6-b550-455c-ae2b-d07db69355cc.jpg?raw=true" alt="Phantom de rayos X fabricado en resina" width="920">
+</a>
+
+*Figura 5: Imágenes adquiridas con distintas técnicas del peine metálico.*
+
+<a href="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/1d040431-0a53-42d2-bf8a-0a99665513b3.jpg?raw=true">
+  <img src="https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X/blob/main/imagenes/1d040431-0a53-42d2-bf8a-0a99665513b3.jpg?raw=true" alt="Phantom de rayos X fabricado en resina" width="920">
+</a>
+
+*Figura 6: Grupo de estudiantes de la Escuela de Tecnología Médica y de la Escuela de Ingeniería Civil Biomédica analizando y discutiendo las técnicas a aplicar para la adquisición de imágenes de los phantoms.*
+ 
+
 
 
 ## Conclusiones
